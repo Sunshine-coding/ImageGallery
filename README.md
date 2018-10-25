@@ -3,7 +3,6 @@
 
 ### 1. Introduction 
 Theme : Each memeber in our group is special like a star. 
-![Demo video](images/account_balance_tracker.gif)
 
 ### 2. Features 
 
@@ -16,7 +15,4 @@ Theme : Each memeber in our group is special like a star.
 
 ### 3. Demo 
 
-* Main page
-![Demo main image](images/main.png)
-* LightBox page
-![Demo lightbox image](images/lightbox.png)
+https://integrify-gallery.netlify.com
